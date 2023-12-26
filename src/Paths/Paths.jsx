@@ -1,18 +1,18 @@
 import React from 'react';
-import Nav from '@/components/Nav/Nav';
-import Footer from '@/components/Footer/Footer';
+import Nav from '@/components/Nav/Nav.jsx';
+import Footer from '@/components/Footer/Footer.jsx';
 import { Route, Routes } from 'react-router-dom';
-import Home from '@/Pages/Home/Home';
-import Filials from '@/Pages/Filials/Filials';
-import Contact from '@/Pages/Contact/Contact';
-import About from '@/Pages/About/About';
+import Home from '@/Pages/Home/Home.jsx';
+import Filials from '@/Pages/Filials/Filials.jsx';
+import Contact from '@/Pages/Contact/Contact.jsx';
+import About from '@/Pages/About/Abou.jsxt';
 import Page404 from '@/Pages/404Page/404';
-import Cart from '@/Pages/Cart/Cart';
+import Cart from '@/Pages/Cart/Cart.jsx';
 import Style from "./Paths.module.scss";
-import Map from '@/Pages/Map/Map';
-import SProduct from '@/Pages/SProduct/SProduct';
-import Loader from '@/components/Loader/Loader';
-import User from '@/Pages/User/User';
+import Map from '@/Pages/Map/Map.jsx';
+import SProduct from '@/Pages/SProduct/SProduct.jsx';
+import Loader from '@/components/Loader/Loader.jsx';
+import User from '@/Pages/User/User.jsx';
 
 export const Paths = [
     {
