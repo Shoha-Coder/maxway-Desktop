@@ -1,0 +1,10 @@
+.Container{
+    width: 1350px;
+    height: 1350px;
+}
+@media only screen and (max-width:1200px){
+    .Container{
+        width: 1200px;
+        height: 1200px;
+    }
+}

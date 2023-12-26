@@ -1,0 +1,83 @@
+.Filials {
+  .Filial {
+    width: 591px;
+    height: 156px;
+    background-color: #fff;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.095);
+    border-radius: 0.75rem;
+    max-width: 36.9375rem;
+    margin-bottom: 1.5rem;
+    padding: 1rem 1.5rem;
+    .Top {
+      display: flex;
+      justify-content: space-between;
+      grid-gap: 1.5rem;
+      gap: 1.5rem;
+      padding-bottom: 1.75rem;
+      width: 551px;
+      min-height: 60px;
+      border-bottom: 1px solid #eaeaea;
+      .Left {
+        width: 248.88px;
+        height: 47px;
+        .Title {
+          font-size: 1.25rem;
+          margin-bottom: 0.375rem;
+          margin-top: 0;
+          min-width: 341.28px;
+          font-weight: 500;
+        }
+        .Adress {
+          font-size: 0.875rem;
+          height: auto;
+          min-height: 34px;
+          font-weight: 400;
+        }
+      }
+      .Right {
+        width: 123.59px;
+        height: 47px;
+        text-align: right;
+        .Soat {
+          color: rgb(90, 197, 58);
+          width: 123.59px;
+          height: 17px;
+          font-size: 0.875rem;
+        }
+      }
+    }
+    .Bottom {
+      width: 551px;
+      height: 64px;
+      display: flex;
+      justify-content: space-between;
+      grid-gap: 1.5rem;
+      gap: 1.5rem;
+      padding-top: 0.75rem;
+      div {
+        height: 40px;
+        &:nth-of-type(1n) {
+          width: 137.27px;
+          p {
+            width: 137.27px;
+            height: 17px;
+            font-size: 0.875rem;
+            &:nth-of-type(1n) {
+              color: grey;
+              margin-bottom: 0.375rem;
+            }
+            &:nth-of-type(2n) {
+              color: #000;
+              font-weight: 400;
+            }
+          }
+        }
+        &:nth-of-type(2n) {
+          width: 110.8px;
+          text-align: right;
+          margin-right: 25px;
+        }
+      }
+    }
+  }
+}

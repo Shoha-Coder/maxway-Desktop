@@ -1,0 +1,724 @@
+{
+  "Filials": [
+    {
+      "id": 1,
+      "title": "MAX WAY MEGA PLANET",
+      "adress": "улица Ниязбек, 1",
+      "vaqt1": "Du-Yak: 10:00-03:00",
+      "vaqt2":"Пн-Вс: 10:00-03:00",
+      "vaqt3":"Mon-Sun: 10:00-03:00",
+      "soat1": "03:00 gacha ochiq",
+      "soat2":"Открыт до 03:00",
+      "soat3":"Open until 03:00",
+      "number": "+998712005400"
+    },
+    {
+      "id": 2,
+      "title": "MAX WAY AVIASOZLAR",
+      "adress": "улица Авиасозлар, 23",
+      "vaqt1": "Du-Yak: 10:00-03:00",
+      "vaqt2":"Пн-Вс: 10:00-03:00",
+      "vaqt3":"Mon-Sun: 10:00-03:00",
+      "soat1": "03:00 gacha ochiq",
+      "soat2":"Открыт до 03:00",
+      "soat3":"Open until 03:00",
+      "number": "+998712005400"
+    },
+    {
+      "id": 3,
+      "title": "MAX WAY RISOVIY",
+      "adress": "Узбекистан, Ташкент, Алтынкульская улица, 10",
+      "vaqt1": "Du-Yak: 10:00-03:00",
+      "vaqt2":"Пн-Вс: 10:00-03:00",
+      "vaqt3":"Mon-Sun: 10:00-03:00",
+      "soat1": "03:00 gacha ochiq",
+      "soat2":"Открыт до 03:00",
+      "soat3":"Open until 03:00",
+      "number": "+998712005400"
+    },
+    {
+      "id": 4,
+      "title": "MAX WAY PARUS",
+      "adress": "улица Катартал, 60/5",
+      "vaqt1": "Du-Yak: 10:00-03:00",
+      "vaqt2":"Пн-Вс: 10:00-03:00",
+      "vaqt3":"Mon-Sun: 10:00-03:00",
+      "soat1": "03:00 gacha ochiq",
+      "soat2":"Открыт до 03:00",
+      "soat3":"Open until 03:00",
+      "number": "+998712005400"
+    },
+
+    {
+      "id": 5,
+      "title": "MAX WAY MAGIC CITY",
+      "adress": "Узбекистан, Ташкент, улица Бабура, 174/6",
+      "vaqt1": "Du-Yak: 10:00-22:00",
+      "vaqt2":"Пн-Вс: 10:00-22:00",
+      "vaqt3":"Mon-Sun: 10:00-22:00",
+      "soat1": "10:00 gacha yopiq",
+      "soat2":"Закрыто до 10:00",
+      "soat3":"Closed until 10:00",
+      "number": "+998712005400"
+    },
+    {
+      "id": 6,
+      "title": "MAX WAY SAMARQAND DARVOZA",
+      "adress": "Узбекистан, Ташкент, улица Коратош, 5А",
+      "vaqt1": "Du-Yak: 10:00-22:00",
+      "vaqt2":"Пн-Вс: 10:00-22:00",
+      "vaqt3":"Mon-Sun: 10:00-22:00",
+      "soat1": "10:00 gacha yopiq",
+      "soat2":"Закрыто до 10:00",
+      "soat3":"Closed until 10:00",
+      "number": "+998712005400"
+    },
+    {
+      "id": 7,
+      "title": "MAX WAY PARKENT",
+      "adress": "Узбекистан, Ташкент, Яшнободский район, массив Мавлоно Риёзи, 30В",
+      "vaqt1": "Du-Yak: 10:00-03:00",
+      "vaqt2":"Пн-Вс: 10:00-03:00",
+      "vaqt3":"Mon-Sun: 10:00-03:00",
+      "soat1": "03:00 gacha ochiq",
+      "soat2":"Открыт до 03:00",
+      "soat3":"Open until 03:00",
+      "number": "+998712005400"
+    },
+    {
+      "id": 8,
+      "title": "MAX WAY UNIVERSAM",
+      "adress": "Узбекистан, Ташкент, проспект Амира Темура, 41/3",
+      "vaqt1": "Du-Yak: 10:00-18:00",
+      "vaqt2":"Пн-Вс: 10:00-18:00",
+      "vaqt3":"Mon-Sun: 10:00-18:00",
+      "soat1": "10:00 gacha yopiq",
+      "soat2":"Закрыто до 10:00",
+      "soat3":"Closed until 10:00",
+      "number": "+998712005400"
+    },
+    {
+      "id": 9,
+      "title": "MAX WAY ROYSON",
+      "adress": "Узбекистан, Ташкент, улица Заркайнар, 2",
+      "vaqt1": "Du-Yak: 10:00-01:00",
+      "vaqt2":"Пн-Вс: 10:00-01:00",
+      "vaqt3":"Mon-Sun: 10:00-01:00",
+      "soat1": "01:00 gacha ochiq",
+      "soat2":"Открыт до 01:00",
+      "soat3":"Open until 01:00",
+      "number": "+998712005400"
+    },
+    {
+      "id": 10,
+      "title": "MAX WAY NEXT",
+      "adress": "Узбекистан, Ташкент, улица Бабура, 6",
+      "vaqt1": "Du-Yak: 10:00-22:00",
+      "vaqt2":"Пн-Вс: 10:00-22:00",
+      "vaqt3":"Mon-Sun: 10:00-22:00",
+      "soat1": "10:00 gacha yopiq",
+      "soat2":"Закрыто до 10:00",
+      "soat3":"Closed until 10:00",
+      "number": "+998712005400"
+    },
+
+    {
+      "id": 11,
+      "title": "MAX WAY MUQUMIY",
+      "adress": "Узбекистан, Ташкент, улица Чиланзар",
+      "vaqt1": "Du-Yak: 10:00-03:00",
+      "vaqt2":"Пн-Вс: 10:00-03:00",
+      "vaqt3":"Mon-Sun: 10:00-03:00",
+      "soat1": "03:00 gacha ochiq",
+      "soat2":"Открыт до 03:00",
+      "soat3":"Open until 03:00",
+      "number": "+998712005400"
+    },
+    {
+      "id": 12,
+      "title": "MAX WAY GRAND MIR",
+      "adress": "Узбекистан, Ташкент, улица Шота Руставели, 9А",
+      "vaqt1": "Du-Yak: 10:00-03:00",
+      "vaqt2":"Пн-Вс: 10:00-03:00",
+      "vaqt3":"Mon-Sun: 10:00-03:00",
+      "soat1": "03:00 gacha ochiq",
+      "soat2":"Открыт до 03:00",
+      "soat3":"Open until 03:00",
+      "number": "+998712005400"
+    },
+    {
+      "id": 13,
+      "title": "MAX WAY SAYRAM",
+      "adress": "Узбекистан, Ташкент, улица Юнусота",
+      "vaqt1": "Du-Yak: 10:00-03:00",
+      "vaqt2":"Пн-Вс: 10:00-03:00",
+      "vaqt3":"Mon-Sun: 10:00-03:00",
+      "soat1": "03:00 gacha ochiq",
+      "soat2":"Открыт до 03:00",
+      "soat3":"Open until 03:00",
+      "number": "+998712005400"
+    },
+
+    {
+      "id": 14,
+      "title": "MAX WAY MAKSIM GORKIY",
+      "adress": "махалля Элобод",
+      "vaqt1": "Du-Yak: 10:00-00:00",
+      "vaqt2":"Пн-Вс: 10:00-00:00",
+      "vaqt3":"Mon-Sun: 10:00-00:00",
+      "soat1": "00:00 gacha ochiq",
+      "soat2":"Открыт до 00:00",
+      "soat3":"Open until 00:00",
+      "number": "+998712005400"
+    },
+    {
+      "id": 15,
+      "title": "MAX WAY SERGELI",
+      "adress": "Узбекистан, Ташкент, Сергелийский район, массив Сергели-VIIIА, 11",
+      "vaqt1": "Du-Yak: 10:00-03:00",
+      "vaqt2":"Пн-Вс: 10:00-03:00",
+      "vaqt3":"Mon-Sun: 10:00-03:00",
+      "soat1": "03:00 gacha ochiq",
+      "soat2":"Открыт до 03:00",
+      "soat3":"Open until 03:00",
+      "number": "+998712005400"
+    },
+    {
+      "id": 16,
+      "title": "MAX WAY FONTAN",
+      "adress": "проспект Амира Темура",
+      "vaqt1": "Du-Yak: 10:00-03:00",
+      "vaqt2":"Пн-Вс: 10:00-03",
+      "vaqt3":"Mon-Sun: 10:00-03:00",
+      "soat1": "03:00 gacha ochiq",
+      "soat2":"Открыт до 03:00",
+      "soat3":"Open until 03:00",
+      "number": "+998712005400"
+    },
+    {
+      "id": 17,
+      "title": "MAX WAY MINOR",
+      "adress": "MaxWay",
+      "vaqt1": "Du-Yak: 10:00-03:00",
+      "vaqt2":"Пн-Вс: 10:00-03:00",
+      "vaqt3":"Mon-Sun: 10:00-03:00",
+      "soat1": "03:00 gacha ochiq",
+      "soat2":"Открыт до 03:00",
+      "soat3":"Open until 03:00",
+      "number": "+998712005400"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "img": "c1.webp",
+      "title1": "Maxi BOX An'anaviy m",
+      "title2":"Макси BOX Традиция",
+      "title3":"Maxi BOX Tradition",
+      "description1": "Original sendvich, kartoshka fri, 0,4 l kola, tanlash uchun sous",
+      "description2":"Сэндвич Original, картофель-фри, кола 0,4 л, соус на выбор",
+      "description3":"Original sandwich, fries, 0.4 l cola, sauce to choose from",
+      "price": 35000
+    },
+    {
+      "id": 2,
+      "img": "c2.webp",
+      "title1": "Maxi BOX Taniqli",
+      "title2":"Макси BOX Популярный",
+      "title3":"Maxi BOX Popular",
+      "description1": "Original lavash, kartoshka fri, 0,4 l kola, tanlash uchun sous",
+      "description2":"Лаваш Original, картофель-фри, кола 0,4 л, соус на выбор",
+      "description3":"Original pita bread, fries, 0.4 l cola, sauce to choose from",
+      "price": 40000
+    },
+    {
+      "id": 3,
+      "img": "c3.webp",
+      "title1": "Maxi BOX Retro",
+      "title2":"Макси BOX Ретро",
+      "title3":"Maxi BOX Retro",
+      "description1": "Shawarma Original, kartoshka fri, 0,4 l kola, tanlash uchun sous",
+      "description2":"Шаурма Original, картофель-фри, кола 0,4 л, соус на выбор",
+      "description3":"Shawarma Original, fries, cola 0,4 l, sauce to choose from",
+      "price": 38000
+    },
+    {
+      "id": 4,
+      "img": "c4.webp",
+      "title1": "Max BOX Panini",
+      "title2":"Макси BOX Панини",
+      "title3":"Maxi BOX Рanini",
+      "description1": "Original panini, kartoshka fri, 0,4 l kola, tanlash uchun sous",
+      "description2":"Панини Original, картофель-фри, кола 0,4 л, соус на выбор",
+      "description3":"Original panini, fries, 0.4 l cola, sauce to choose from",
+      "price": 38000
+    },
+    {
+      "id": 5,
+      "img": "c5.webp",
+      "title1": "Maxi BOX Trend",
+      "title2":"Макси BOX Тренд",
+      "title3":"Maxi BOX Trend",
+      "description1": "Gamburger, kartoshka fri, 0,4 l kola, tanlash uchun uchun sous",
+      "description2":"Гамбургер, картофель-фри, кола 0,4 л, соус на выбор",
+      "description3":"Hamburger, fries, 0.4 l cola, sauce to choose from",
+      "price": 35000
+    },
+    {
+      "id": 6,
+      "img": "c6.webp",
+      "title1": "Mini BOX",
+      "title2":"Мини BOX",
+      "title3":"Mini boks",
+      "description1": "Longer, kartoshka fri, coca-cola 0,3, tanlovga ko'ra uchun sous",
+      "description2":"Лонгер, картофель-фри, coca-cola 0,3 л, соус на выбор",
+      "description3":"Longer, fries, coca-cola 0,3, sauce to choose from",
+      "price": 25000
+    },
+    {
+      "id": 7,
+      "img": "c7.webp",
+      "title1": "Klab sendvich",
+      "title2":"Клаб сэндвич",
+      "title3":"Club Sandwich Chicken",
+      "description1": "Original sendvich, kartoshka fri, tanlash uchun sous",
+      "description2":"Сэндвич Original, картофель-фри, соус на выбор",
+      "description3":"Original sandwich, fries, sauce to choose from",
+      "price": 30000
+    },
+    {
+      "id": 8,
+      "img": "c8.webp",
+      "title1": "Sendvich Original",
+      "title2":"Сэндвич Original",
+      "title3":"Sandwich Original",
+      "description1": "Toster non, tovuq shnitseli, yangi bodring, pomidor, klab sousi, Xoxland pishloq",
+      "description2":"Тостер хлеб, куриный шницель, свежие огурцы, помидоры, соус \"клаб\", сыр Хохланд",
+      "description3":"Toaster bread, chicken schnitzel, fresh cucumbers, tomatoes, club sauce, Hohland cheese",
+      "price": 25000
+    },
+    {
+      "id": 9,
+      "img": "c9.webp",
+      "title1": "Lavash",
+      "title2":"Лаваш стандарт классик",
+      "title3":"Lavash standard classic",
+      "description1": "Lavash, beef donard, tomato, chips, tomato sauce, mayonnaise",
+      "description2":"Лаваш, говяжье мясо-донар, помидор, чипсы, томатный соус, майонез",
+      "description3":"Lavash, beef donard, tomato, chips, tomato sauce, mayonnaise",
+      "price": 27000
+    },
+    {
+      "id": 10,
+      "img": "c10.webp",
+      "title1": "Lavash mini",
+      "title2":"Лаваш мини говяжий сырный",
+      "title3":"Lavash mini cheese",
+      "description1": "Pita, mol go'shti-donar, pomidor, chiplar, pomidor sousi, mayonez, Xoxland pishloq",
+      "description2":"Лаваш, говяжье мясо-донар, помидор, чипсы, томатный соус, майонез, сыр Хохланд",
+      "description3":"Lavash, beef donard, tomato, chips, tomato sauce, mayonnaise, Hohland cheese",
+      "price": 22000
+    },
+    {
+      "id": 11,
+      "img": "c11.webp",
+      "title1": "Shaurma",
+      "title2":"Шаурма классик",
+      "title3":"Shawarma standard",
+      "description1": "Donar bulochka, mol go'shti-donar, tuzlangan bodring, pomidor, pomidor sousi",
+      "description2":"Донар булочка, говяжье мясо-донар, соленые огурцы, помидоры, томатный соус",
+      "description3":"Donar bun, beef meat-donar, pickles, tomatoes, tomato sauce",
+      "price": 25000
+    },
+    {
+      "id": 12,
+      "img": "c12.webp",
+      "title1": "Donar kebab",
+      "title2":"Донар кебаб",
+      "title3":"Donar Kebab",
+      "description1": "Mol go'shti donari-go'sht, makkajo'xori bilan guruch, kartoshka fri, qizil karam salati, ziravorlar sousi",
+      "description2":"Говяжье донар-мясо, рис с кукурузой, картофель-фри, салат из красной капусты, спэшл соус",
+      "description3":"Beef donar meat, rice with corn, fries, red cabbage salad, special sauce",
+      "price": 40000
+    },
+    {
+      "id": 13,
+      "img": "c13.webp",
+      "title1": "Donar Box",
+      "title2":"Донар BOX",
+      "title3":"Donar Box",
+      "description1": "Mol go'shti donari-go'sht, kartoshka fri, guruch",
+      "description2":"Говяжье донар-мясо, картофель-фри, рис",
+      "description3":"Beef donar-meat, fries, rice",
+      "price": 35000
+    },
+    {
+      "id": 14,
+      "img": "c14.webp",
+      "title1": "Donar BOX + 0.4 Coca cola",
+      "title2":"Донар BOX + 0.4 Coca cola",
+      "title3":"Donar BOX + 0.4 Coca cola",
+      "description1": "Mol go'shti donari-go'sht, kartoshka fri, guruch, 0.4l quyma kola",
+      "description2":"Донар BOX, coca-cola разливная 0,4 л",
+      "description3":"Donor BOX, coca-Cola draught 0.4 l",
+      "price": 40000
+    },
+    {
+      "id": 15,
+      "img": "c15.webp",
+      "title1": "Non",
+      "title2":"Хлеб",
+      "title3":"Bread",
+      "description1": "Yumshoq bulochka",
+      "description2":"Мягкая булочка",
+      "description3":"Soft bun",
+      "price": 3000
+    },
+    {
+      "id": 16,
+      "img": "c16.webp",
+      "title1": "Panini",
+      "title2":"Панини классик",
+      "title3":"Panini classic",
+      "description1": "Bulochka, mol go'shti-donar, tuzlangan bodring, p...",
+      "description2":"Булочка, говяжье мясо-донар, соленые огурцы, помидоры, томатный соус, ранч соус",
+      "description3":"Bun, beef donard, pickles, tomatoes, tomato sauce, ranch sauce",
+      "price": 25000
+    },
+    {
+      "id": 17,
+      "img": "c17.webp",
+      "title1": "Gamburger",
+      "title2":"Гамбургер",
+      "title3":"Hamburger",
+      "description1": "Burger bulochkasi, tuzlangan bodring, pomidor, go'shtli...",
+      "description2":"Булочка гамбургер, соленые огурцы, помидоры, мясная котлета, красный лук, айсберг, соус \"бургер\"",
+      "description3":"Hamburger bun, pickles, tomatoes, meat patty, red onion, iceberg, burger sauce",
+      "price": 22000
+    },
+    {
+      "id": 18,
+      "img": "c18.webp",
+      "title1": "Chizburger",
+      "title2":"Чизбургер",
+      "title3":"Cheeseburger",
+      "description1": "Burger bulochkasi, tuzlangan bodring, pomidor, go'sht...",
+      "description2":"Булочка гамбургер, соленые огурцы, помидоры, мясная котлета, красный лук, айсберг, соус \"бургер\", сыр Хохланд",
+      "description3":"Hamburger bun, pickles, tomatoes, meat patty, red onion, iceberg, burger sauce, Hohland cheese",
+      "price": 25000
+    },
+    {
+      "id": 19,
+      "img": "c19.webp",
+      "title1": "Bigburger",
+      "title2":"Бигбургер",
+      "title3":"Bigburger",
+      "description1": "Burger bulochkasi, tuzlangan bodring, pomidor, 2 ta g...",
+      "description2":"Булочка гамбургер, соленые огурцы, помидоры, 2 мясной котлеты, красный лук, айсберг, соус \"бургер\", сыр \"Хохланд\"",
+      "description3":"Hamburger bun, pickles, tomatoes, 2 meat patties, red onion, iceberg, burger sauce, Hohland cheese",
+      "price": 35000
+    },
+    {
+      "id": 20,
+      "img": "c20.webp",
+      "title1": "Longer",
+      "title2":"Лонгер",
+      "title3":"Longer",
+      "description1": "Ma'lumot: xot-dog bulochkasi, sous, naggetslar, tuzlang...",
+      "description2":"Информация: Хот-дог булочка, кетчуп, майонез, наггетсы, соленые огурцы, салат айсбер",
+      "description3":"information: hot dog bun, ketchunez, nuggets, pickles, iceberg lettuce",
+      "price": 15000
+    },
+    {
+      "id": 21,
+      "img": "c21.webp",
+      "title1": "Hot Dog",
+      "title2":"Хот Дог",
+      "title3":"Hot Dog",
+      "description1": "Hot-dog bulochkasi, Kanada kolbasasi, tuzlangan bodri...",
+      "description2":"Булочка хот-дог, канадская сосиска,соленые огурцы, помидоры, айсберг, соус \"хот-дог\"",
+      "description3":"Hot dog bun, Canadian sausage, pickles, tomatoes, iceberg, hot dog sauce",
+      "price": 12000
+    },
+    {
+      "id": 22,
+      "img": "c22.webp",
+      "title1": "King Dog",
+      "title2":"Кинг Дог",
+      "title3":"King dog",
+      "description1": "Hot-dog bulochkasi, 2 ta kanadalik kolbasa, tuzlangan b...",
+      "description2":"Булочка хот-дог, 2 канадские сосиски, соленые огурцы, помидоры, айсберг, сыр Хохланд",
+      "description3":"Hot dog bun, 2 Canadian sausages, pickles, tomatoes, iceberg, Hohland cheese",
+      "price": 20000
+    },
+    {
+      "id": 23,
+      "img": "c23.webp",
+      "title1": "Chiz dog",
+      "title2":"Чиз дог",
+      "title3":"Cheese dog",
+      "description1": "Hot-dog bulochkasi, kanadalik kolbasa, tuzlangan bodr...",
+      "description2":"Булочка хот-дог, канадская сосиска,соленые огурцы, помидоры, айсберг, сыр Хохланд, соус \"хот-дог\"",
+      "description3":"Hot dog bun, Canadian sausage,pickles, tomatoes, iceberg, Hohland cheese, hot dog sauce",
+      "price": 15000
+    },
+    {
+      "id": 24,
+      "img": "c24.webp",
+      "title1": "Fri kartoshkasi",
+      "title2":"Картофель Фри стандарт",
+      "title3":"French fries standard",
+      "price": 80010
+    },
+    {
+      "id": 25,
+      "img": "c25.webp",
+      "title1": "Po-derevenski",
+      "title2":"Картофель по-деревенски",
+      "title3":"Rustic potatoes",
+      "price": 140100
+    },
+    {
+      "id": 26,
+      "img": "c26.webp",
+      "title1": "BOX",
+      "title2":"Микс BOX",
+      "title3":"Mix Box",
+      "description1": "Strips (2 dona), kartoshka fri (80 gr), naggetslar (4...",
+      "description2":"Информация: стрипсы 2 шт, фри 60 гр, наггетсы 4шт.",
+      "description3":"Information: potato fries 60 g, nuggets 4 pieces, strips 2 pieces",
+      "price": 23000
+    },
+    {
+      "id": 27,
+      "img": "c27.webp",
+      "title1": "Strips",
+      "title2":"Стрипсы",
+      "title3":"Strips",
+      "price": 15000
+    },
+    {
+      "id": 28,
+      "img": "c28.webp",
+      "title1": "Naggets",
+      "title2":"Нагетсы М 10 шт",
+      "title3":"Nuggets",
+      "price": 15000
+    },
+    {
+      "id": 29,
+      "img": "c29.webp",
+      "title1": "Ays-ti",
+      "title2":"Айс-ти",
+      "title3":"Ice Tea",
+      "price": 15000
+    },
+    {
+      "id": 30,
+      "img": "c30.webp",
+      "title1": "Coca Cola (quyma)",
+      "title2":"Coca Cola (разлив)",
+      "title3":"Cola Spill",
+      "price": 6000
+    },
+    {
+      "id": 31,
+      "img": "c31.webp",
+      "title1": "Coca Cola",
+      "title2":"Coca Cola",
+      "title3":"Coca-cola",
+      "price": 8000
+    },
+    {
+      "id": 32,
+      "img": "c32.webp",
+      "title1": "Fanta",
+      "title2":"Fanta",
+      "title3":"Fanta",
+      "price": 8000
+    },
+    {
+      "id": 33,
+      "img": "c33.webp",
+      "title1": "Fuse tea",
+      "title2":"Fuse tea",
+      "title3":"Fuse tea",
+      "price": 8000
+    },
+    {
+      "id": 34,
+      "img": "c34.webp",
+      "title1": "Sharbat Dena",
+      "title2":"Сок Dena",
+      "title3":"Juice Dena",
+      "price": 15000
+    },
+    {
+      "id": 35,
+      "img": "c35.webp",
+      "title1": "Bonaqua",
+      "title2":"Вода Bonaqua",
+      "title3":"Bonaqua",
+      "price": 3000
+    },
+    {
+      "id": 36,
+      "img": "c36.webp",
+      "title1": "Qora choy",
+      "title2":"Чай черный",
+      "title3":"Black tea",
+      "price": 8000
+    },
+    {
+      "id": 37,
+      "img": "c37.webp",
+      "title1": "Ko'k choy",
+      "title2":"Чай зеленый",
+      "title3":"Green tea",
+      "price": 3000
+    },
+    {
+      "id": 38,
+      "img": "c38.webp",
+      "title1": "Limonli choy",
+      "title2":"Чай с лимоном",
+      "title3":"tea with lemon",
+      "price": 6000
+    },
+    {
+      "id": 39,
+      "img": "c39.webp",
+      "title1": "Amerikano",
+      "title2":"Американо",
+      "title3":"Americano",
+      "price": 10000
+    },
+    {
+      "id": 40,
+      "img": "c40.webp",
+      "title1": "Kapuchino",
+      "title2":"Капучино",
+      "title3":"Cappuccino",
+      "price": 12000
+    },
+    {
+      "id": 41,
+      "img": "c41.webp",
+      "title1": "Latte",
+      "title2":"Латте",
+      "title3":"Latte",
+      "price": 12000
+    },
+    {
+      "id": 42,
+      "img": "c42.webp",
+      "title1": "Bir martali stakan",
+      "title2":"Одноразовый стакан",
+      "title3":"Disposable cup",
+      "price": 1000
+    },
+    {
+      "id": 43,
+      "img": "c43.webp",
+      "title1": "Brauni",
+      "title2":"Брауни",
+      "title3":"Brauni",
+      "description1": "Qora shokolad, yong'oq va shokoladli pechene",
+      "description2":"Темный шоколад, грецкие орехи и шоколадный бисквит",
+      "description3":"Dark chocolate, walnuts and chocolate sponge cake",
+      "price": 18000
+    },
+    {
+      "id": 44,
+      "img": "c44.webp",
+      "title1": "Tiramisu",
+      "title2":"Тирамису",
+      "title3":"Tiramusu",
+      "description1": "Savoyardi pechene, mascarpone, qahva",
+      "description2":"Печенье \"Савоярди\", маскарпоне, кофе",
+      "description3":"Savoyardi cookies, mascarpone, coffee",
+      "price": 18000
+    },
+    {
+      "id": 45,
+      "img": "c45.webp",
+      "title1": "San-sebastian",
+      "title2":"Сан-себастьян",
+      "title3":"San-sebastian",
+      "description1": "Savoyardi kukilari, mascarpone, kahva",
+      "description2":"Молочный шоколад, крем-чиз и бисквит",
+      "description3":"Milk chocolate, cream cheese and sponge cake",
+      "price": 20000
+    },
+    {
+      "id": 46,
+      "img": "c46.webp",
+      "title1": "Xalapeno",
+      "title2":"Халапеньо",
+      "title3":"Jalapeno",
+      "price": 2000
+    },
+    {
+      "id": 47,
+      "img": "c47.webp",
+      "title1": "Ketchup",
+      "title2":"Кетчуп",
+      "title3":"Ketchup",
+      "price": 2000
+    },
+    {
+      "id": 48,
+      "img": "c48.webp",
+      "title1": "Pishloqli sous",
+      "title2":"Сырный соус",
+      "title3":"Cheese sauce",
+      "price": 2000
+    },
+    {
+      "id": 49,
+      "img": "c49.webp",
+      "title1": "Mayonez",
+      "title2":"Майонез",
+      "title3":"Mayonnaise",
+      "price": 2000
+    },
+    {
+      "id": 50,
+      "img": "c50.webp",
+      "title1": "Sarimsoqli sous",
+      "title2":"Чесночный соус",
+      "title3":"Garlic Sause",
+      "price": 2000
+    },
+    {
+      "id": 51,
+      "img": "c51.webp",
+      "title1": "Guruch",
+      "title2":"Рис с кукурузой",
+      "title3":"Rice",
+      "description1": "Shirin makkajo'xori bilan pishirilgan \"lazer\" guruch...",
+      "description2":"Сваренный рис \"лазер\" со сладкой кукурузой",
+      "description3":"Cooked rice \"laser\" with sweet corn",
+      "price": 6000
+    },
+    {
+      "id": 52,
+      "img": "c52.webp",
+      "title1": "Salat",
+      "title2":"Салат с капустой",
+      "title3":"Salad",
+      "description1": "Salat qizil karam aralashmasi",
+      "description2": "Mixed red cabbage salad",
+      "description3":"Салат микс из красной капусты",
+      "price": 6000
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name":"Name",
+      "avatar": "https://avatars.githubusercontent.com/u/127945777?s=40&v=4",
+      "locations":"https://maps.app.goo.gl/BsGpsMWZgLZqU5vU9"
+    }
+  ]
+}

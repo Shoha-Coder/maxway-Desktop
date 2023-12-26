@@ -1,0 +1,143 @@
+.Nav {
+  border-bottom: 1px solid #eaeaea;
+  .Nav_Container {
+    margin: auto;
+    width: 1300px;
+    display: flex;
+    align-items: center;
+    height: 90px;
+    justify-content: space-between;
+    gap: 30px;
+    .Links {
+      width: 550px;
+      height: 90px;
+      display: flex;
+      align-items: center;
+      a {
+        font-weight: 500;
+        margin-left: 20px;
+      }
+      .active {
+        font-weight: 700;
+        color: blue;
+      }
+    }
+    .Right {
+      display: flex;
+      height: 90px;
+      align-items: center;
+      gap: 20px;
+      margin-left: 200px;
+      .LocationDot {
+        width: 35px;
+        height: 35px;
+        font-size: 25px;
+        padding: 8px 8px;
+        border-radius: 50%;
+        background-color: #f1eff4;
+      }
+      h3 {
+        width: 230px;
+        font-size: 15px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 9px;
+        span {
+          color: blue;
+        }
+      }
+      .dropdown {
+        border-radius: 1.25rem;
+        background-color: #f1eff4;
+        border: none;
+        height: 35px;
+        .DropdownContainer {
+          .DrItem {
+            -webkit-tap-highlight-color: transparent;
+            background-color: transparent;
+            outline: 0px;
+            border: 0px;
+            margin: 0px;
+            border-radius: 0px;
+            cursor: pointer;
+            user-select: none;
+            vertical-align: middle;
+            appearance: none;
+            color: inherit;
+            font-family: Inter, sans-serif;
+            font-weight: 400;
+            font-size: 1rem;
+            line-height: 1.5;
+            display: flex;
+            -webkit-box-pack: start;
+            justify-content: flex-start;
+            -webkit-box-align: center;
+            align-items: center;
+            position: relative;
+            text-decoration: none;
+            min-height: 48px;
+            padding: 6px 16px;
+            box-sizing: border-box;
+            white-space: nowrap;
+              width: 90%;
+              margin: auto;
+              border-radius: .75rem;
+              transition: .5s ease;
+            &:hover{
+              background-color: #f1eff4;
+              transition: .5s ease;
+            }
+            span {
+              margin-left: 20px;
+            }
+            img {
+              margin-right: 9px;
+              margin-left: 15px;
+            }
+            span {
+              opacity: 0;
+            }
+          }
+          .activeDrItem {
+            span {
+              opacity: 1;
+            }
+          }
+        }
+      }
+      .Cart {
+        width: 35px;
+        height: 35px;
+        padding: 8px 8px;
+        border-radius: 50%;
+        background-color: #f1eff4;
+      }
+      .CartTotal {
+        font-size: 15px;
+        width: 85px;
+        display: flex;
+        flex-direction: row;
+        // margin-left: 0;
+        // margin-right: 20px;
+        span{
+          width: auto;
+          color: #000;
+          &:nth-of-type(1n){
+            margin-right: 3px;
+            margin-left: 0;width: auto;
+          }
+          &:nth-of-type(2n){
+            margin-left: 5px;
+          }
+        }
+      }
+      .User {
+        width: 35px;
+        height: 35px;
+        padding: 8px 8px;
+        border-radius: 50%;
+        background-color: #f1eff4;
+      }
+    }
+  }
+}

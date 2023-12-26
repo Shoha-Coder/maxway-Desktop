@@ -1,0 +1,164 @@
+.Empty {
+  width: 550px;
+  height: 353px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
+  margin: 137px auto;
+  border-radius: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 34.375rem;
+  padding: 2.5rem;
+  img {
+    width: 100px;
+  }
+  h1 {
+    font-size: 24px;
+    margin: 32px 0 8px;
+  }
+  p {
+    font-size: 16px;
+    margin: 0 0 40px;
+  }
+  button {
+    font-size: 14px;
+    padding: 12px 24px;
+    background-color: #51267d;
+    color: #fff;
+    border-radius: 1.25rem;
+    border: none;
+  }
+}
+.Items {
+  .Item {
+    display: flex;
+    justify-content: space-between;
+    flex: 1 1;
+    min-width: 18.75rem;
+    height: -moz-fit-content;
+    height: fit-content;
+    background: #fff;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
+    border-radius: 1rem;
+    overflow: hidden;
+    min-width: 797px;
+    min-height: 149px;
+    max-width: 797px;
+    max-height: 149px;
+    .ItemInterContent {
+      align-items: center;
+      padding: 1.5rem 1.25rem;
+      .ItemWrapper {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin-top: -10px;
+        .img {
+          box-sizing: border-box;
+          display: block;
+          overflow: hidden;
+          width: initial;
+          height: initial;
+          background: none;
+          opacity: 1;
+          border: 0px;
+          margin: 0px;
+          padding: 0px;
+          inset: 0px;
+          width: 77px;
+          height: 77px;
+          border-radius: 0.75rem;
+          .item_img {
+            position: relative;
+            inset: 0px;
+            box-sizing: border-box;
+            padding: 0px;
+            border: none;
+            margin: auto;
+            display: block;
+            width: 0px;
+            height: 0px;
+            min-width: 100%;
+            max-width: 100%;
+            min-height: 100%;
+            max-height: 100%;
+            object-fit: cover;
+            overflow-clip-margin: content-box;
+            overflow: clip;
+          }
+        }
+        .Prop {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          margin-left: 25px;
+          .ItemProperty {
+            .ItemTitle {
+              font-size: 1.0625rem;
+              font-weight: 500;
+              margin-bottom: 0.25rem;
+            }
+            .ItemDesc {
+              font-size: 0.85rem;
+              color: grey;
+              width: 150px;
+            }
+          }
+          .ItemQuan {
+            display: flex;
+            align-items: center;
+            background-color: #fff;
+            border: 1px solid #51267d;
+            width: 116px;
+            height: 34px;
+            border-radius: 1.25rem;
+            overflow: hidden;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            justify-content: space-between;
+            padding: 0 20px;
+            align-items: center;
+            margin-left: 200px;
+            button {
+              background-color: transparent;
+              border: none;
+              font-size: 16px;
+              -webkit-user-select: none;
+              -moz-user-select: none;
+              -ms-user-select: none;
+              user-select: none;
+              width: 1em;
+              height: 1em;
+              display: inline-block;
+              fill: currentColor;
+              -webkit-flex-shrink: 0;
+              -ms-flex-negative: 0;
+              flex-shrink: 0;
+              -webkit-transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+              transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+              font-size: 1.5rem;
+              margin-bottom: 10px;
+            }
+            .ItemQuantity {
+              background-color: transparent;
+              font-weight: 600;
+              padding-bottom: 8px;
+              font-size: 18px;
+            }
+          }
+          .ItemPrice{
+            display: flex;
+            align-items: center;
+            padding-top: 5px;
+            margin-left: 15px;
+            h2{
+              font-size: 25px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

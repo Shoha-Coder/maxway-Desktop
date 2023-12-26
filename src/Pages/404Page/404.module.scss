@@ -1,0 +1,31 @@
+.Page_404 {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  line-height: 50px;
+  .Page_404_image {
+    width: 25%;
+    margin: auto;
+  }
+  .p404 {
+    font-size: 55px;
+  }
+  h2 {
+    font-size: 35px;
+  }
+  p {
+    width: 550px;
+    margin: auto;
+  }
+  .btn {
+    width: 164px;
+    height: 44px;
+    background-color: #51267d;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 1.25rem;
+    margin: auto;
+  }
+}

@@ -1,0 +1,42 @@
+.Contact{
+    display: flex;
+    flex-direction: column;
+    .Container{
+        width: 287px;
+        height: 262px;
+        background-color: #96b1c2;
+        padding: 32px 13px 32px 32px;
+        border-radius: .75rem;
+        .QrCode{
+            background-color: #FFFFFF;
+            border-radius: .75rem;
+            width: 94px;
+            height: 94px;
+            padding: 10px;
+        }
+        .Title{
+            font-size: 1.0625rem;
+            font-weight: 700;
+            color: #fff;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        .Connect_TG{
+            img{
+                margin-right: 20px;
+            }
+            .TG_Bot{
+                color: #fff;
+            }
+        }
+    }
+    h1{
+        margin-top: 20px;
+    }
+    h2{
+        margin-top: 10px;
+    }
+    a{
+        margin-top: 10px;
+    }
+}

@@ -1,0 +1,10 @@
+.SContainer{
+    width: 550px;
+    height: 550px;
+    background-color: #fff;
+    box-shadow:  0 0 15 1 #888;
+    .Product_Image{
+        size: 250px 250px;
+        overflow: hidden;
+    }
+}

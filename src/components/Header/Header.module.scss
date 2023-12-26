@@ -1,0 +1,28 @@
+@keyframes HeaderAnim {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+.Swiper{
+    display: flex;
+    position: sticky;
+    top: 0;
+    right: 0;
+    left: 0;
+    .SwiperSlide{
+        display: inline;
+        width: 166px;
+        height: 45px;
+        font-size: 1rem;
+        border-radius: 0.75rem;
+        text-transform: capitalize;
+        transition: .15s ease;
+    }
+    .Active{
+        background-color: #000;
+        color: #fff;
+    }
+}
