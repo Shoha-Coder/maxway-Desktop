@@ -9,7 +9,7 @@ import { useTranslation } from 'react-i18next';
 
 const User = () => {
     const [userData, setUserData] = useState()
-    const Api = "http://localhost:9000/Users";
+    const Api = "https://maxway-back.onrender.com/Users";
     const params = useParams();
     const { t } = useTranslation()
     useEffect(() => {

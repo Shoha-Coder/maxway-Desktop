@@ -4,7 +4,7 @@ import Style from "./Filials.module.scss";
 import FilialsHeader from '@/components/Filials_Header/FilialsHeader';
 import { useTranslation } from 'react-i18next';
 const Filials = () => {
-  const Api = "http://localhost:9000";
+  const Api = "https://maxway-back.onrender.com";
   const [filials, setFilials] = useState([]);
   const {t,i18n} = useTranslation()
   const currentLang = i18n.language

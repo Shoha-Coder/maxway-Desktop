@@ -6,7 +6,7 @@ import { useCart } from "react-use-cart";
 import { useTranslation } from "react-i18next";
 
 const SProduct = () => {
-    const Api = "http://localhost:9000";
+    const Api = "https://maxway-back.onrender.com";
     const { addItem } = useCart();
     const params = useParams();
     const [ProductData, setProductData] = useState([]);

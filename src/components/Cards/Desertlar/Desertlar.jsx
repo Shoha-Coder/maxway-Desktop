@@ -7,7 +7,7 @@ import { useTranslation } from 'react-i18next';
 const Desertlar = () => {
   const {t, i18n} = useTranslation()
   const currentLang = i18n.language
-  const Api = "http://localhost:9000";
+  const Api = "https://maxway-back.onrender.com";
   const [products, setProducts] = useState([])
   const GetApiFunc = async () => {
     await axios.get(Api + `/products`)

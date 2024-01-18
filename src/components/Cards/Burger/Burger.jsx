@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 
 const Burger = () => {
-  const Api = "http://localhost:9000";
+  const Api = "https://maxway-back.onrender.com";
   const [products, setProducts] = useState([]);
   const {t, i18n } = useTranslation();
   const currentLang = i18n.language;

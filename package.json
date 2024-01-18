@@ -34,7 +34,7 @@
     "ymaps": "^0.2.1"
   },
   "scripts": {
-    "start": "concurrently \"react-app-rewired start\" \"json-server --watch db/db.json --port 9000\"",
+    "dev": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
     "eject": "react-scripts eject"
