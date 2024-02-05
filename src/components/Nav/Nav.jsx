@@ -20,20 +20,20 @@ const Nav = () => {
     const changeLanguage = (language) => {
         i18n.changeLanguage(language);
     };
-    let img = ""
+    let img = "uz.svg"
     if (currentLang === "uz") {
         img = "uz.svg";
     } else if (currentLang === "ru") {
         img = "ru.svg";
     } else if (currentLang === "en") {
-        img = "en.svg"; 
+        img = "en.svg";
     }
     return (
         <React.Fragment>
             <nav className={Style.Nav}>
                 <div className={Style.Nav_Container}>
                     <Link to={"/"}>
-                    <img src={Logo} alt="Logo" className={Style.Logo} />
+                        <img src={Logo} alt="Logo" className={Style.Logo} />
                     </Link>
                     <div className={Style.Links}>
                         <NavLink to="/"

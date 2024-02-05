@@ -10,7 +10,6 @@ import Page404 from '@/Pages/404Page/404';
 import Cart from '@/Pages/Cart/Cart';
 import Style from "./Paths.module.scss";
 import Map from '@/Pages/Map/Map';
-import SProduct from '@/Pages/SProduct/SProduct';
 import Loader from '@/components/Loader/Loader';
 import Checkout from '@/Pages/Checkout/Checkout';
 
@@ -44,11 +43,6 @@ export const Paths = [
         id: 6,
         path: "*",
         el: <Page404 />
-    },
-    {
-        id: 7,
-        path: "/single-product/:productId/",
-        el: <SProduct />
     },
     {
         id: 8,
