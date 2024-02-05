@@ -3,14 +3,13 @@ import Style from "./SProduct.module.scss";
 import { Link, useParams } from "react-router-dom";
 import axios from "axios";
 import { useCart } from "react-use-cart";
-import { useTranslation } from "react-i18next";
+import { t } from "i18next";
 
 const SProduct = () => {
-    const Api = "https://maxway-back.onrender.com";
+    const Api = "https://maxway-back.shoha-coder.uz";
     const { addItem } = useCart();
     const params = useParams();
     const [ProductData, setProductData] = useState([]);
-    const {t} = useTranslation()
     useEffect(() => {
         axios.get(`${Api}/products/${params.productId}`)
             .then((response) => setProductData(response.data));

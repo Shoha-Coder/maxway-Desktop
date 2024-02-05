@@ -5,10 +5,9 @@ import Style from "./Footer.module.scss";
 import { BsInstagram } from "react-icons/bs";
 import { BsFacebook } from "react-icons/bs";
 import { AiFillYoutube } from "react-icons/ai";
-import { useTranslation } from 'react-i18next';
+import { t } from 'i18next';
 
 const Footer = () => {
-  const { t } = useTranslation()
   return (
     <footer>
       <div className={Style.Footer_Container}>

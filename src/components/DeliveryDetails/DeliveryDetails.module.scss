@@ -1,0 +1,83 @@
+.DeliveryDetails {
+  margin-bottom: 1.5rem;
+  padding: 1.5rem 1.25rem;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
+  border-radius: 1rem;
+  .Top {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    h1 {
+      font-weight: 600;
+      font-size: 1.25rem;
+      line-height: 140%;
+      color: #252c32;
+    }
+  }
+  .Middle {
+    display: grid;
+    grid-gap: 0.75rem;
+    grid-template-columns: repeat(4, 1fr) !important;
+    margin-bottom: 1.5rem;
+    div {
+      width: 100%;
+      margin-top: 0.5rem;
+      input {
+        width: 100%;
+        border: 1px solid #e5e9eb;
+        padding: 0.625rem 1rem;
+        border-radius: 0.75rem;
+        -moz-appearance: none;
+        appearance: none;
+        -webkit-appearance: none;
+        transition: 0.15s;
+        &:focus {
+          outline: none;
+        }
+      }
+    }
+  }
+  .Bottom {
+    textarea {
+      width: 100%;
+      height: 6rem;
+      border: 1px solid #e5e9eb;
+      padding: 0.75rem 1rem;
+      border-radius: 0.75rem;
+      resize: vertical;
+      text-rendering: auto;
+      color: fieldtext;
+      letter-spacing: normal;
+      word-spacing: normal;
+      line-height: normal;
+      text-transform: none;
+      text-indent: 0px;
+      text-shadow: none;
+      display: inline-block;
+      text-align: start;
+      appearance: auto;
+      -webkit-rtl-ordering: logical;
+      resize: auto;
+      cursor: text;
+      overflow-wrap: break-word;
+      background-color: field;
+      column-count: initial !important;
+      margin: 0em;
+      border-width: 1px;
+      border-style: solid;
+      border-color: -internal-light-dark(
+        rgb(118, 118, 118),
+        rgb(133, 133, 133)
+      );
+      border-image: initial;
+      padding: 2px;
+      white-space: pre-wrap;
+      resize: vertical;
+      padding-top: 10px;
+      padding-left: 10px;
+      &:focus{
+        outline: none;
+      }
+    }
+  }
+}

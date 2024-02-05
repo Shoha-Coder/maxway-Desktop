@@ -1,0 +1,19 @@
+.DeliveryTime {
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
+  border-radius: 1rem;
+  padding: 1.5rem 1.25rem;
+  margin-bottom: 1.5rem;
+  .Top {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    margin-bottom: 1rem;
+  }
+  .Bottom {
+    grid-gap: 0.25rem;
+    gap: 0.25rem;
+    margin-bottom: 0.25rem;
+    display: flex!important;
+    align-items: center!important;
+  }
+}

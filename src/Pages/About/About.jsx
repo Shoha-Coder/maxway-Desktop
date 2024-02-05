@@ -1,10 +1,9 @@
 import React from 'react';
 import AboutImg from "@/images/about.webp";
 import Style from "./About.module.scss";
-import { useTranslation } from 'react-i18next';
+import { t } from 'i18next';
 
 const About = () => {
-  const { t } = useTranslation()
   const aboutKeys = [
     'About.0',
     'About.1',

@@ -1,11 +1,10 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import Style from "./FilialsHeader.module.scss"; 
-import { useTranslation } from 'react-i18next';
+import Style from "./FilialsHeader.module.scss";
 import "./FilialsHeader.scss";
+import { t } from 'i18next';
 
 const FilialsHeader = () => {
-    const { t } = useTranslation()
     const Pathname = window.location.pathname;
     let Class1;
     let Class2;

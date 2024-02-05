@@ -13,14 +13,12 @@ import Ichimliklar from '../Ichimliklar/Ichimliklar';
 import Desertlar from '../Desertlar/Desertlar';
 import Souslar from '../Souslar/Souslar';
 import Tamadilar from '../Tamaddilar/Tamadilar';
-import { useTranslation } from 'react-i18next';
-import SwiperHeader from '@/components/SwiperHeader/SwiperHeader';
+import { t } from 'i18next';
 
 const Cards = () => {
-    const { t } = useTranslation();
     return (
         <div className={Style.Cards_Conainer}>
-            <SwiperHeader />
+            <img src="https://maxway.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Feedc6ad0-1c3c-40fb-a3f2-15b807b7ed30&w=1200&q=75" className={Style.Header} alt="" />
             <h1 id='MaxiBox'>{t("MaxiBox")}</h1>
             <MaxiBox />
             <h1 id='Klab'>{t("Klab")}</h1>

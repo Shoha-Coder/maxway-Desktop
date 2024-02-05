@@ -12,7 +12,7 @@ import Style from "./Paths.module.scss";
 import Map from '@/Pages/Map/Map';
 import SProduct from '@/Pages/SProduct/SProduct';
 import Loader from '@/components/Loader/Loader';
-import User from '@/Pages/User/User';
+import Checkout from '@/Pages/Checkout/Checkout';
 
 export const Paths = [
     {
@@ -57,8 +57,8 @@ export const Paths = [
     },
     {
         id: 9,
-        path: "/user/:userId",
-        el: <User />
+        path: "/checkout",
+        el: <Checkout />
     }
 ];
 

@@ -11,9 +11,10 @@ import { FaUser } from "react-icons/fa";
 import { useTranslation } from 'react-i18next';
 import { BsCheck2 } from "react-icons/bs";
 import "./DrDefStyle.scss";
+import { t } from 'i18next';
 
 const Nav = () => {
-    const { t, i18n } = useTranslation();
+    const { i18n } = useTranslation();
     const { cartTotal } = useCart();
     const currentLang = i18n.language;
     const changeLanguage = (language) => {

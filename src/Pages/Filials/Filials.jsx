@@ -3,10 +3,11 @@ import React, { useEffect, useState } from 'react';
 import Style from "./Filials.module.scss";
 import FilialsHeader from '@/components/Filials_Header/FilialsHeader';
 import { useTranslation } from 'react-i18next';
+import { t } from 'i18next';
 const Filials = () => {
-  const Api = "https://maxway-back.onrender.com";
+  const Api = "https://maxway-back.shoha-coder.uz";
   const [filials, setFilials] = useState([]);
-  const {t,i18n} = useTranslation()
+  const {i18n} = useTranslation()
   const currentLang = i18n.language
   const GetApiFunc = async () => {
     try {

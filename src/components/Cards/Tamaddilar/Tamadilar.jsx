@@ -3,10 +3,11 @@ import Style from "./Tamadilar.module.scss";
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import { t } from 'i18next';
 
 const Tamadilar = () => {
-  const Api = "https://maxway-back.onrender.com";
-  const {t,i18n} = useTranslation()
+  const Api = "https://maxway-back.shoha-coder.uz";
+  const {i18n} = useTranslation()
   const currentLang = i18n.language
   const [products, setProducts] = useState([])
   const GetApiFunc = async () => {

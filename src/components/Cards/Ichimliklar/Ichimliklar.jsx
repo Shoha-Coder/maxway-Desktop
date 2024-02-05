@@ -3,11 +3,12 @@ import Style from "./Ichimliklar.module.scss";
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import { t } from 'i18next';
 
 const Ichimliklar = () => {
-  const { t, i18n } = useTranslation()
+  const { i18n } = useTranslation()
   const currentLang = i18n.language
-  const Api = "https://maxway-back.onrender.com";
+  const Api = "https://maxway-back.shoha-coder.uz";
   const [products, setProducts] = useState([])
   const GetApiFunc = async () => {
     await axios.get(Api + `/products`)

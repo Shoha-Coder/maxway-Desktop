@@ -2,10 +2,9 @@ import React from 'react';
 import Style from "./Contact.module.scss";
 import QrCode from "@/images/Boglanish_Qr_Code.png";
 import { FaTelegramPlane } from "react-icons/fa";
-import { useTranslation } from 'react-i18next';
+import { t } from 'i18next';
 
 const Contact = () => {
-  const { t } = useTranslation()
   return (
     <div className={Style.Contact}>
       <h1>{t("ContactHeading")}</h1>

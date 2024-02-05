@@ -3,11 +3,12 @@ import Style from "./Burger.module.scss";
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import { t } from 'i18next';
 
 const Burger = () => {
-  const Api = "https://maxway-back.onrender.com";
+  const Api = "https://maxway-back.shoha-coder.uz";
   const [products, setProducts] = useState([]);
-  const {t, i18n } = useTranslation();
+  const {i18n } = useTranslation();
   const currentLang = i18n.language;
   const getApiFunc = async () => {
     await axios.get(Api +"/products").then((response) => {

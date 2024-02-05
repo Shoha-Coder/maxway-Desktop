@@ -41,7 +41,10 @@
     ""
   ],
   "ContactHeading": "Contacts",
-  "TG": ["Leave a review or", "ask a question in Telegram"],
+  "TG": [
+    "Leave a review or",
+    "ask a question in Telegram"
+  ],
   "Contact": "Single call center",
   "AddBtn": "Add",
   "vaqt": "Schedule:",
@@ -58,5 +61,22 @@
   "CartItems": "Products",
   "Delivery": "Delivery",
   "Checkout": "To pay",
-  "BackToCheckout": "Go to checkout"
+  "BackToCheckout": "Go to checkout",
+  "Check": "Checkout",
+  "PersonalData": "Personal data",
+  "Name": "Name",
+  "Phone": "Phone number",
+  "DeliveryAdress": "Delivery address",
+  "Accomondation": "Accomondation",
+  "Floor": "Floor",
+  "Apartment": "Apartment",
+  "Porch": "Porch",
+  "Comment": "Comment to the order",
+  "DeliveryTime": "Delivery time",
+  "Today": "Today",
+  "ProductsList": "Product list",
+  "CanCureerPhone": "Can the courier call?",
+  "Yes": "Yes",
+  "No": "No",
+  "Min": "minutes"
 }

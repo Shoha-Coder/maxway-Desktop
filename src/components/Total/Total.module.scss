@@ -1,0 +1,45 @@
+.Total {
+  width: 363px;
+  height: 257px;
+  background: #fff;
+  border-radius: 1rem;
+  position: sticky;
+  top: 0.75rem;
+  box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.051);
+  padding: 1.5rem 1.125rem;
+  height: -moz-fit-content;
+  height: fit-content;
+  .Heading {
+    margin-top: 0;
+    font-size: 20px;
+  }
+  .Pay {
+    width: 327px;
+    display: flex;
+    flex-direction: column;
+    h2 {
+      width: 100%;
+      font-size: 16px;
+      font-weight: 500;
+      display: flex;
+      margin-top: 5px;
+      justify-content: space-between;
+      &:nth-child(2) {
+        padding-bottom: 9px;
+        border-bottom: 1px solid #eaeaea;
+      }
+    }
+    button {
+      width: 327px;
+      height: 44px;
+      font-size: 14px;
+      background-color: #51267d;
+      padding: 12px 14px;
+      cursor: pointer;
+      border-radius: 25px;
+      color: #fff;
+      border: none;
+      margin-top: 5px;
+    }
+  }
+}
